@@ -3,7 +3,7 @@
     <img src="/designer.png" alt="" />
   </div>
   <div class="lg:w-[60vh] text-center lg:text-left">
-    <h2 class="text-5xl font-bold text-[#272D38] pb-4 text-2xl mx-auto">Branding & Design system</h2>
+    <h2 class="text-2xl lg:text-5xl text-[#272D38] font-bold py-4 pb-4">Branding & Design system</h2>
     <p class="text-[#272D38] lg:w-[50vh] leading-6 hidden lg:block">
       Commonly used in the graphic, print & publishing industris for previewing
       visual layout and mockups
